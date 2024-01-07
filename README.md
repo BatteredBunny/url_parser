@@ -4,7 +4,7 @@
 
 # Install
 ```
-cargo add --git https://github.com/ayes-web/url_parser
+cargo add --git https://github.com/BatteredBunny/url_parser
 ```
 
 # Usage
